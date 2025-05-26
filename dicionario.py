@@ -6,7 +6,7 @@ for i in range(3):
 
 print("Contatos")
 for nome, tel in contatos.items():
-     print(f"{nome}:{telefone}")
+     print(f"{nome}:{tel}")
 
 
 
